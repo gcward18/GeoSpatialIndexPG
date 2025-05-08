@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="gsi"
+                 name="Geo Spatial Index"
+                 start-page="Geo Spatial Index's.md">
+
+    <toc-element topic="Geo Spatial Index's.md"/>
+    <toc-element topic="What is location data.md"/>
+</instance-profile>
